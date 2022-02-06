@@ -1,3 +1,3 @@
 # Barlang
 
-A simple Pascal inpired language written in java
+A simple Pascal inspired language written in java
